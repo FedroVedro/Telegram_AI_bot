@@ -20,6 +20,6 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
-## Пример реализации находится в файле: Пример работы.mp4
+### Пример реализации находится в файле: Пример работы.mp4
 
-
+### Запуск производится через основной скрипт : [fdwfsd](https://github.com/FedroVedro/Telegram_AI_bot/blob/master/telegram_bot_ai.py)
